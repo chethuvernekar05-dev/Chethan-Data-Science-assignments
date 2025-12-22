@@ -2,11 +2,11 @@ Python Programming Assignments
 
 This repository contains solutions to various Python programming exercises, demonstrating fundamental concepts such as control flow, functions, random number generation, and basic arithmetic operations.
 
-📂 File Description
+ File Description
 
 assignment1.ipynb: A Jupyter Notebook containing the Python code and logic for the exercises listed below.
 
-📝 Exercises Covered
+ Exercises Covered
 
 1. Prime Number Checker
 
@@ -50,7 +50,7 @@ Discounts: Applies a discount (e.g., 10%) if the total bill exceeds a certain th
 
 Output: displays a detailed billing summary including all charges, the subtotal, applicable discount, and the final payable amount.
 
-🚀 How to Run
+ How to Run
 
 Clone the repository:
 
@@ -66,12 +66,12 @@ To run locally:
 jupyter notebook assignment1.ipynb
 
 
-🛠️ Requirements
+ Requirements
 
 Python 3.x
 
 Jupyter Notebook or Google Colab environment
 
-👤 Author
+ Author
 
 Chethan M Vernekar
